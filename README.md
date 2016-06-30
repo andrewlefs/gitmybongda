@@ -1,0 +1,2 @@
+# gitmybongda
+chi tiet mota
